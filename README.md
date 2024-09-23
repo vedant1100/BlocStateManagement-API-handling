@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 Bloc State Management is an efficient way to handle routing and communication in a Model-View-Controller (MVC) model. It separates business logic from user interface (ui). It increases code readability.
 
 ## Bloc State Management flow
-<img src="https://github.com/user-attachments/assets/f0e2319a-1ba7-4717-9c1a-fe283115b8a7" alt="Bloc State Management" width="500" height="600">
+<img src="https://github.com/user-attachments/assets/f0e2319a-1ba7-4717-9c1a-fe283115b8a7" alt="Bloc State Management" width="500" height="400">
 
 ## Working
 It contains 3 sections
